@@ -2104,7 +2104,7 @@ body {
     -moz-transform: translateX(3.125em) scale(1.5) rotate(260deg);
     -ms-transform: translateX(3.125em) scale(1.5) rotate(260deg);
     transform: translateX(3.125em) scale(1.5) rotate(260deg);
-    background: none repeat scroll 0 0 #101820;
+    background: none repeat scroll 0 0 #fc0000;
   }
   100% {
     -webkit-transform: translateX(0) rotate(0);
@@ -2125,7 +2125,7 @@ body {
     -moz-transform: translateX(-3.125em) scale(1.5) rotate(-260deg);
     -ms-transform: translateX(-3.125em) scale(1.5) rotate(-260deg);
     transform: translateX(-3.125em) scale(1.5) rotate(-260deg);
-    background: none repeat scroll 0 0 #000;
+    background: none repeat scroll 0 0 #fc0000;
   }
   100% {
     -webkit-transform: translateX(0);
@@ -2146,7 +2146,7 @@ body {
     -moz-transform: translateX(3.125em) scale(1.5) rotate(260deg);
     -ms-transform: translateX(3.125em) scale(1.5) rotate(260deg);
     transform: translateX(3.125em) scale(1.5) rotate(260deg);
-    background: none repeat scroll 0 0 #101820;
+    background: none repeat scroll 0 0 #fc0000;
   }
   100% {
     -webkit-transform: translateX(0) rotate(0);
@@ -2167,7 +2167,7 @@ body {
     -moz-transform: translateX(-3.125em) scale(1.5) rotate(-260deg);
     -ms-transform: translateX(-3.125em) scale(1.5) rotate(-260deg);
     transform: translateX(-3.125em) scale(1.5) rotate(-260deg);
-    background: none repeat scroll 0 0 #000;
+    background: none repeat scroll 0 0 #fc0000;
   }
   100% {
     -webkit-transform: translateX(0);
